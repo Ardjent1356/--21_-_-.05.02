@@ -1,0 +1,21 @@
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe.config
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.pdb
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.AssemblyReference.cache
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.CoreCompileInputs.cache
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.exe
+C:\Users\horro\source\repos\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.pdb
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe.config
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.pdb
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.AssemblyReference.cache
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.CoreCompileInputs.cache
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.exe
+C:\Users\horro\OneDrive\Рабочий стол\C#\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.pdb
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe.config
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.exe
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\bin\Debug\Practicum9_1_12.pdb
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.AssemblyReference.cache
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.csproj.CoreCompileInputs.cache
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.exe
+C:\Users\horro\OneDrive\Рабочий стол\Практикум 9_1_12\Practicum9_1_12\Practicum9_1_12\obj\Debug\Practicum9_1_12.pdb
