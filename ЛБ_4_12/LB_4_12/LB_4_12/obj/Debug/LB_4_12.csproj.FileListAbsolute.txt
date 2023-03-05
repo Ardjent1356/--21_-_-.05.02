@@ -1,0 +1,10 @@
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\bin\Debug\LB_4_12.exe.config
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\bin\Debug\LB_4_12.exe
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\bin\Debug\LB_4_12.pdb
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.csproj.AssemblyReference.cache
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.Form1.resources
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.Properties.Resources.resources
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.csproj.GenerateResource.cache
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.csproj.CoreCompileInputs.cache
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.exe
+C:\Users\horro\source\repos\LB_4_12\LB_4_12\obj\Debug\LB_4_12.pdb
