@@ -1,0 +1,7 @@
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\bin\Debug\LaB_5_9.exe.config
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\bin\Debug\LaB_5_9.exe
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\bin\Debug\LaB_5_9.pdb
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\obj\Debug\LaB_5_9.csproj.AssemblyReference.cache
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\obj\Debug\LaB_5_9.csproj.CoreCompileInputs.cache
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\obj\Debug\LaB_5_9.exe
+C:\Users\horro\source\repos\LaB_5_9\LaB_5_9\obj\Debug\LaB_5_9.pdb
